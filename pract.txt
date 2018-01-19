@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EE95-CBDA
+
+ Directory of C:\Users\APathan\Desktop\myproject
+
+01/19/2018  03:35 PM    <DIR>          .
+01/19/2018  03:35 PM    <DIR>          ..
+01/16/2018  07:09 PM                22 index.html
+01/19/2018  03:35 PM                 0 pract.txt
+01/16/2018  07:09 PM                 5 test1.txt
+               3 File(s)             27 bytes
+               2 Dir(s)   9,183,301,632 bytes free
